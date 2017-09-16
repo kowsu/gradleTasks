@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
-public class BuildFile {
+public class BuildFile s
 	
 	
 	static{
