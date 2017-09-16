@@ -1,4 +1,4 @@
-package gradleTasks;
+package com.ram.tests.builds;
 
 public class BuildFileTest {
 
